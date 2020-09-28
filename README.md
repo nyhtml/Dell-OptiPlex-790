@@ -22,3 +22,6 @@
 <br>
 # Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.6.
+
+# Releases
+Warning: Our <a href="https://github.com/Sipylus/Dell-OptiPlex-790/releases">releases</a> are configured to work with systems configured with similar hardware.
