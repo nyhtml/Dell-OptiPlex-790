@@ -9,6 +9,7 @@ Dell OptiPlex 790 Hackintosh Desktop
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
 * [Install to Boot Drive](#install-to-boot-drive)
+* [Compatibility](#compatibility)
 * [Releases](#releases)
 * [License](#license)
 * [Warranty](#warranty)
