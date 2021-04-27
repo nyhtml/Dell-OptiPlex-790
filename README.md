@@ -1,8 +1,19 @@
-# Dell OptiPlex 790 Hackintosh Desktop<br>
+#  :fox_face: Dell OptiPlex 790<br>
+Dell OptiPlex 790 Hackintosh Desktop
 
+## Table of Contents
 
+* [The Build](#the-build)
+  * [BIOS Settings](#bios-settings)
+* [Prepare Install Media](#prepare-install-media)
+* [Install the Bootloader](#install-the-bootloader)
+* [Kernel Extensions](#kernel-extensions)
+* [Install to Boot Drive](#install-to-boot-drive)
+* [Releases](#releases)
+* [License](#license)
+* [Warranty](#warranty)
 
-
+## The Build
 
 
 
