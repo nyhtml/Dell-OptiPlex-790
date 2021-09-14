@@ -15,7 +15,7 @@ Dell OptiPlex 790 Hackintosh Desktop
 * [Warranty](#warranty)
 
 ## The Build
-View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2odhoXL`
+View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2nEq9tY`
 
 ## Prepare Install Media
 1. Download the installer for [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) from the Mac App Store.
