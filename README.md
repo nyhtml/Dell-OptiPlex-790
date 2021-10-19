@@ -8,6 +8,9 @@ Dell OptiPlex 790 Hackintosh Desktop
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
+  * [Mandatory](#mandatory)
+  * [Post Installation](#post-installation)
+  * [Optional](#optional)
 * [Install to Boot Drive](#install-to-boot-drive)
 * [Compatibility](#compatibility)
 * [Releases](#releases)
@@ -34,6 +37,24 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 ## Install the Bootloader
 
 ## Kernel Extensions
+### [Mandatory](https://github.com/Sipylus/Dell-OptiPlex-790/releases)
+  * FakeSMC.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * Lili.kext
+  * WhateverGreen.kext
+
+### [Post Installation](https://github.com/Sipylus/Dell-OptiPlex-790/releases)
+  * AppleALC.kext
+  * IntelMausiEthernet.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * USBInjectAll.kext
+  * XHCI-200-series-injector.kext
+
+### [Optional](https://github.com/nyhtml/KEANU)
+  * CPUFriend.kext
+  * RealtekRTL8111.kext (PCI-e Wi-Fi)
+  * RtWlanU.kext (USB Wi-Fi)
+  * RtWlanU1827.kext (USB Wi-Fi)
+
+View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
 ## Install to Boot Drive
 
