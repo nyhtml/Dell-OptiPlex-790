@@ -31,14 +31,14 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
     `Install macOS High Sierra`
 
-# Install the Bootloader
+## Install the Bootloader
 
-# Kernel Extensions
+## Kernel Extensions
 
-# Install to Boot Drive
+## Install to Boot Drive
 
-# Compatibility<br>
+## Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
 
-# Releases
+## Releases
 **Warning**: Our <a href="https://github.com/Sipylus/Dell-OptiPlex-790/releases">releases</a> are configured to work with systems configured with similar hardware.
