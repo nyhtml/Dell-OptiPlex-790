@@ -31,22 +31,12 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
     `Install macOS High Sierra`
 
+# Install the Bootloader
 
+# Kernel Extensions
 
+# Install to Boot Drive
 
-
-
-
-
-
-<strong>Not Included</strong><br>
-– Paper Manuals/Product Setup Guides<br>
-– Audio Cables/Video Cables/Adapters<br>
-– Operating System Recovery Media<br>
-– Any Application/Drivers/Programs Not Stated<br>
-– Any Accessories/Media Not Stated<br>
-– Carrying Case/Protective Skin<br>
-<br>
 # Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
 
