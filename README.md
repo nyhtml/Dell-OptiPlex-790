@@ -60,6 +60,29 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 
 ## Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
+* macOS
+  * [macOS Montery](https://www.dualbootpc.com/software/system/macos/montery/) (undergoing testing)
+  * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/) (undergoing testing)
+  * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
+  * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
+  * [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) 
+  * [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/)
+* Ubuntu
+  * [Ubuntu Desktop](https://www.dualbootpc.com/software/system/ubuntu/desktop/)
+* Windows
+  * [Windows 11](https://www.dualbootpc.com/software/system/windows/eleven/) (undergoing testing)
+  * [Windows 10](https://www.dualbootpc.com/software/system/windows/ten/) 
+  * [Windows 8](https://www.dualbootpc.com/software/system/windows/eight/)
+  * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
 
 ## Releases
 **Warning**: Our <a href="https://github.com/Sipylus/Dell-OptiPlex-790/releases">releases</a> are configured to work with systems configured with similar hardware.
+
+## Warranty
+THIS [ARCTIC FOX](https://github.com/Sipylus/Arctic-Fox/) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
+SOFTWARE.
