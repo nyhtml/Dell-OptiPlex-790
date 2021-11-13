@@ -37,12 +37,12 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 ## Install the Bootloader
 
 ## Kernel Extensions
-### [Mandatory](https://github.com/Sipylus/Dell-OptiPlex-790/releases)
+### [Mandatory](https://github.com/nyhtml/KEANU)
   * FakeSMC.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
-### [Post Installation](https://github.com/Sipylus/Dell-OptiPlex-790/releases)
+### [Post Installation](https://github.com/nyhtml/KEANU)
   * AppleALC.kext
   * IntelMausiEthernet.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * USBInjectAll.kext
