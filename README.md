@@ -61,7 +61,7 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 ## Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
 * macOS
-  * [macOS Montery](https://www.dualbootpc.com/software/system/macos/montery/) (undergoing testing)
+  * [macOS Montery](https://www.dualbootpc.com/software/system/macos/monterey/) (undergoing testing)
   * [macOS Big Sur](https://www.dualbootpc.com/software/system/macos/big-sur/) (undergoing testing)
   * [macOS Catalina](https://www.dualbootpc.com/software/system/macos/mojave/)
   * [macOS Mojave](https://www.dualbootpc.com/software/system/macos/mojave/)
