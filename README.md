@@ -16,6 +16,7 @@ Dell OptiPlex 790 Hackintosh Desktop
 * [Releases](#releases)
 * [License](#license)
 * [Warranty](#warranty)
+* [Download](#download)
 
 ## The Build
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2nEq9tY`
