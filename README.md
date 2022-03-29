@@ -105,3 +105,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
 SOFTWARE.
+
+## Download
+[Download](https://github.com/Sipylus/Dell-OptiPlex-790/releases/latest/download/EFI.zip) or [view the releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases/) on GitHub.
