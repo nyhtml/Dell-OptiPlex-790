@@ -35,6 +35,25 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
     `Install macOS High Sierra`
 
 ## Install the Bootloader
+**USB Flash Drive**
+* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Install Clover EFI v2.5k r4406 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
+  * Clover for Legacy booting
+    * Mandatory drivers
+      * ApfsDriverLoader-64.efi
+      * AptioMemoryFix-64.efi
+      * HFSPlus.efi
+    * Recommended drivers
+      * AudioDxe-64.efi (Enables boot sound in compatible themes)
+      * NvmExpress-64.efi (Enabled The Detection for compatible SSD
+
+**Boot Drive**
+* Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
+* Install Clover EFI v2.5k r4406 to your boot drive and customize with the **additional** options:
+  * Install RC Scripts in target volume
+  * Install Clover Preference Pane (Select during Post Installation)
+* Eject all USB Flash Drives and restart to the BIOS.
+* Set the boot drive with Clover as the Primary and exit.
 
 ## Kernel Extensions
 ### [Mandatory](https://github.com/nyhtml/KEANU)
