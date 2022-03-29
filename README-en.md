@@ -43,7 +43,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
       * HFSPlus.efi
     * Recommended drivers
       * AudioDxe-64.efi (Enables boot sound in compatible themes)
-      * NvmExpress-64.efi (Enabled The Detection for compatible SSD
+      * NvmExpress-64.efi (Enabled The Detection of the NVMe drive)
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
