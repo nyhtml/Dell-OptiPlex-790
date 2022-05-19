@@ -34,8 +34,8 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
 ## Install the Bootloader
 **USB Flash Drive**
-* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
-* Install Clover EFI v2.5k r4406 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
+* Download the [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer.
+* Install [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for Legacy booting
     * Mandatory drivers
       * ApfsDriverLoader-64.efi
@@ -47,21 +47,21 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install Clover EFI v2.5k r4406 to your boot drive and customize with the **additional** options:
+* Install [Clover](https://www.dualbootpc.com/software/bootloader/clover/) v2.5k r4406 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
-* Set the boot drive with Clover as the Primary and exit.
+* Set the boot drive with Clover in the ESP as the Primary and exit.
 
 ## Kernel Extensions
 ### [Mandatory](https://github.com/nyhtml/KEANU)
-  * FakeSMC.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * FakeSMC.kext (This will be swapped in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
 ### [Post Installation](https://github.com/nyhtml/KEANU)
   * AppleALC.kext
-  * IntelMausiEthernet.kext (This will be swapped in [Release X](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * IntelMausiEthernet.kext (This will be swapped in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
 
@@ -74,6 +74,10 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
 ## Install to Boot Drive
+  * EFI 200MB - FAT32
+  * Win 400GB - NTFS
+  * Ubuntu - 100GBGB - EXT4
+  * macOS - 500GB - NTFS
 
 ## Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
@@ -93,7 +97,7 @@ The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is 
   * [Windows 7](https://www.dualbootpc.com/software/system/windows/seven/)
 
 ## Releases
-**Warning**: Our <a href="https://github.com/Sipylus/Dell-OptiPlex-790/releases">releases</a> are configured to work with systems configured with similar hardware.
+**Warning**: Our [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases/) are configured to work with systems configured with similar [specs](https://www.dualbootpc.com/systems/desktop/790sff/).
 
 ## Warranty
 THIS [Dell OptiPlex 790 SFF](https://github.com/Sipylus/Dell-OptiPlex-790) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
@@ -105,4 +109,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br
 SOFTWARE.
 
 ## Download
-[Download](https://github.com/Sipylus/Dell-OptiPlex-790/releases/latest/download/EFI.zip) or [view the releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases/) on GitHub.
+[Download](https://github.com/Sipylus/Dell-OptiPlex-790/releases/latest/download/EFI.zip) or view the [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases/) on GitHub.
