@@ -42,7 +42,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
       * AptioMemoryFix-64.efi
       * HFSPlus.efi
     * Recommended drivers
-      * AudioDxe-64.efi ([Enablesboot sound](https://github.com/Sipylus/Dell-OptiPlex-790/issues/1) in compatible themes)
+      * AudioDxe-64.efi ([Enables boot sound](https://github.com/Sipylus/Dell-OptiPlex-790/issues/1) in compatible themes)
       * NvmExpress-64.efi (Enabled The Detection of the NVMe drive)
 
 **Boot Drive**
