@@ -2,4 +2,9 @@
 Dell OptiPlex 790 Hackintosh Desktop
 
 **Languages**
-* [English](/README-en.md)
+* [English (en-us)](/README-en.md)
+* French (fr)
+* German (de)
+* Spanish (es)
+* Japanese (ja)
+* Simplified Chinese (zh-cn)
