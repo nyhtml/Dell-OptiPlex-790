@@ -76,8 +76,10 @@ View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available o
 ## Install to Boot Drive
   * EFI 200MB - FAT32
   * Win 400GB - NTFS
-  * Ubuntu - 100GBGB - EXT4
+  * Ubuntu - 100GB - EXT4
   * macOS - 500GB - NTFS
+
+Note: Example above is for a Triple Boot 1TB/100GB Drive. Adjust or drop partitions to match your drive.
 
 ## Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
