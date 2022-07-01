@@ -8,7 +8,7 @@
   * [Mandatory](#mandatory)
   * [Post Installation](#post-installation)
   * [Optional](#optional)
-* [Install to Boot Drive](#install-to-boot-drive)
+* [Partition Boot Drive](#partition-boot-drive)
 * [Compatibility](#compatibility)
 * [Releases](#releases)
 * [License](#license)
@@ -47,7 +47,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install [Clover](https://www.dualbootpc.com/software/bootloader/clover/) v2.5k r4406 to your boot drive and customize with the **additional** options:
+* Install [Clover](https://www.dualbootpc.com/software/bootloader/clover/) v2.4k r4934 to your boot drive and customize with the **additional** options:
   * Install RC Scripts in target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
@@ -73,7 +73,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
 
-## Install to Boot Drive
+## Partition Boot Drive
   * EFI 200MB - FAT32
   * Win 400GB - NTFS
   * Ubuntu - 100GB - EXT4
