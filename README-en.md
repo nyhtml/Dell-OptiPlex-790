@@ -19,7 +19,7 @@
 ## The Build
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2nEq9tY`
 
-### BIOS
+### BIOS Settings
 * Settings
   * General
     * Boot Sequence
