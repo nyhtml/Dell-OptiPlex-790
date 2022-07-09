@@ -55,13 +55,13 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
 
 ## Kernel Extensions
 ### [Mandatory](https://github.com/nyhtml/KEANU)
-  * FakeSMC.kext (This will be swapped in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * FakeSMC.kext (This will be swapped to VirtualSMC.kext in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * Lili.kext
   * WhateverGreen.kext
 
 ### [Post Installation](https://github.com/nyhtml/KEANU)
   * AppleALC.kext
-  * IntelMausiEthernet.kext (This will be swapped in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
+  * IntelMausiEthernet.kext (This will be swapped to IntelMausi.kext in future [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases) for future support of macOS Big Sur.)
   * USBInjectAll.kext
   * XHCI-200-series-injector.kext
 
