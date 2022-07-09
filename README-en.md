@@ -19,6 +19,13 @@
 ## The Build
 View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2nEq9tY`
 
+### BIOS
+* Settings
+  * General
+    * Boot Sequence
+      * Boot List Options
+        * Legacy
+
 ## Prepare Install Media
 1. Download the installer for [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) from the Mac App Store.
 2. Open Terminal and format the target 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) with the following command:
@@ -107,7 +114,7 @@ The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is 
 **Warning**: Our [releases](https://github.com/Sipylus/Dell-OptiPlex-790/releases/) are configured to work with systems configured with similar [specs](https://www.dualbootpc.com/systems/desktop/790sff/).
 
 ## Warranty
-THIS [Dell OPTIPLEX 790 SFF](https://github.com/Sipylus/Dell-OptiPlex-790) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
+THIS [DELL OPTIPLEX 790 SFF](https://github.com/Sipylus/Dell-OptiPlex-790) REPO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
