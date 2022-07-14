@@ -2,13 +2,13 @@
 
 * [The Build](#the-build)
   * [BIOS Settings](#bios-settings)
+* [Partition Boot Drive](#partition-boot-drive)
 * [Prepare Install Media](#prepare-install-media)
 * [Install the Bootloader](#install-the-bootloader)
 * [Kernel Extensions](#kernel-extensions)
   * [Mandatory](#mandatory)
   * [Post Installation](#post-installation)
   * [Optional](#optional)
-* [Partition Boot Drive](#partition-boot-drive)
 * [Video Demonstrations](#video-demonstrations)
 * [Compatibility](#compatibility)
 * [Releases](#releases)
@@ -25,6 +25,14 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
     * Boot Sequence
       * Boot List Options
         * Legacy
+
+## Partition Boot Drive
+  * EFI 200MB - FAT32
+  * Win 400GB - NTFS
+  * Ubuntu - 100GB - EXT4
+  * macOS - 500GB - NTFS
+
+Note: Example above is for a Triple Boot 1TB/100GB Drive. Adjust or drop partitions to match your drive.
 
 ## Prepare Install Media
 1. Download the installer for [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) from the Mac App Store.
@@ -80,14 +88,6 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at
   * RtWlanU1827.kext (USB Wi-Fi)
 
 View the list of [kexts](https://www.dualbootpc.com/software/kexts/) available on GixxerPC: `http://gixxer.us/3aS5d6m`
-
-## Partition Boot Drive
-  * EFI 200MB - FAT32
-  * Win 400GB - NTFS
-  * Ubuntu - 100GB - EXT4
-  * macOS - 500GB - NTFS
-
-Note: Example above is for a Triple Boot 1TB/100GB Drive. Adjust or drop partitions to match your drive.
 
 ## Video Demonstrations
   * [GixxerPC.com](https://www.gixxerpc.com/systems/desktop/790sff/demos/)
