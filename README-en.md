@@ -17,7 +17,7 @@
 * [Download](#download)
 
 ## The Build
-View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/) at `http://gixxer.us/2nEq9tY`
+View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/specs/) at `http://gixxer.us/2nEq9tY`
 
 ### BIOS Settings
 * Settings
