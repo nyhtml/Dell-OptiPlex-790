@@ -32,7 +32,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/desktop/790sff/spec
   * Ubuntu - 100GB - EXT4
   * macOS - 500GB - NTFS
 
-Note: Example above is for a Triple Boot 1TB/100GB Drive. Adjust or drop partitions to match your drive.
+Note: Example above is for a Triple Boot 1TB/1000GB Drive. Adjust or drop partitions to match your drive.
 
 ## Prepare Install Media
 1. Download the installer for [macOS High Sierra](https://www.dualbootpc.com/software/system/macos/high-sierra/) from the Mac App Store.
